@@ -1,1 +1,0 @@
-import{ap as e}from"./syncEngine-DiexFMBQ.js";class s extends e{async print(){return console.log("Not supported web browsers!"),Promise.reject("Printer plugin is not supported on web.")}}export{s as PrinterWeb};
